@@ -1,4 +1,4 @@
-# Minishell
+# bashFromScratch -> Minishell
 
 https://github.com/user-attachments/assets/ff6314d9-79b4-4986-8d2a-62db47b2b8fd
 
